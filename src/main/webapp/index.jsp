@@ -73,7 +73,7 @@
 <body>
 
     <header>
-        <h1>🛒 Shopping App</h1>
+        <h1>🛒 Shopping </h1>
     </header>
 
     <div class="banner">
