@@ -73,11 +73,11 @@
 <body>
 
     <header>
-        <h1>🛒 Shopping </h1>
+        <h1>🛒 Shopping App</h1>
     </header>
 
     <div class="banner">
-        <h2>Sale Today!</h2>
+        <h2>Big Sale Today!</h2>
         <p>Up to 50% off on all products</p>
         <button>Shop Now</button>
     </div>
